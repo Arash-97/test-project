@@ -16,3 +16,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 300);
     }
 });
+console.log('hello');
